@@ -12,4 +12,4 @@ This is a Student Grade Management System built using pure PHP. The project aims
 - **Role-Based Access Control**: Assign roles and permissions to different user groups to control access to various functionalities.
 
 ## Status
-- **Completed.
+- **Completed.**
